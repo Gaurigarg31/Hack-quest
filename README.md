@@ -1,5 +1,5 @@
 # Hack-quest
 This is my first git repository.
-Author - Gauri
+Author - gauri(and pari also)
 <BR>
-it is official
+it is official()
